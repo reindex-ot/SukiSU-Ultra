@@ -70,7 +70,7 @@
     <string name="module_update">更新</string>
     <string name="module_downloading">モジュールをダウンロード中: %s</string>
     <string name="module_start_downloading">ダウンロードを開始: %s</string>
-    <string name="new_version_available">最新のバージョン「%s」が利用可能です。タップしてダウンロード。</string>
+    <string name="new_version_available">最新のバージョン %s が利用可能です。タップしてダウンロード。</string>
     <string name="launch_app">起動</string>
     <string name="force_stop_app" formatted="false">強制停止</string>
     <string name="restart_app">再起動</string>
