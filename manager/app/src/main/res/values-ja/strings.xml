@@ -34,7 +34,7 @@
     <string name="reboot_edl">EDL で再起動</string>
     <string name="about">アプリについて</string>
     <string name="module_uninstall_confirm">%s モジュールをアンインストールしますか？</string>
-    <string name="module_uninstall_success">%s はアンインストールしました</string>
+    <string name="module_uninstall_success">%s をアンインストールしました</string>
     <string name="module_uninstall_failed">%s をアンインストールできませんでした</string>
     <string name="module_version">バージョン</string>
     <string name="module_author">作者</string>
